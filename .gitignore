@@ -153,6 +153,7 @@ outputs/
 .json
 .txt
 .xml
+data/*
 
 # Zips
 UrlShortenerApp.zip
