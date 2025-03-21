@@ -2,7 +2,7 @@
 
 📌 **Maestría en Inteligencia Artificial Aplicada**
 
-📍 **Institución:** Instituto Nacional de Investigación sobre Agricultura, Alimentación y Medio Ambiente de Francia (INRAE)
+📍 **Institución:** Universidad Icesi y el Instituto Nacional de Investigación sobre Agricultura, Alimentación y Medio Ambiente de Francia (INRAE)
 
 ## 🎯 Objetivo del Proyecto
 
