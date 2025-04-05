@@ -1,4 +1,3 @@
-
 # 🧪 Reto Insulina INRAE
 
 📌 **Maestría en Inteligencia Artificial Aplicada**
