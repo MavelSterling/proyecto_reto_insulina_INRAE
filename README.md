@@ -25,9 +25,9 @@ Este proyecto investiga el uso de **redes neuronales recurrentes (RNN)** en la i
 │   ├── lasso.ipynb  # Análisis con regresión LASSO
 │   ├── proyecto_rnn_penicilina.ipynb  # Implementación de RNN para la predicción de datos de penicilina
 │
+│── 📂 temp # Archivos temporales de contexto
 │── .gitignore   # Archivos a excluir del control de versiones
 │── README.md  # Este archivo
-│── Taller 3 Análisis Bivariado.pdf  # Material de apoyo
 ```
 
 ## 📊 Base de datos
