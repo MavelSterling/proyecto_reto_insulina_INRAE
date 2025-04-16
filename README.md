@@ -20,17 +20,21 @@ Este proyecto investiga el uso de **redes neuronales recurrentes (RNN)** en la i
 │   ├── IndPenSim_Summary_data_notebook_V3.ipynb  # Resumen y exploración de datos
 │
 │── 📂 src
+│   ├── batches_lasso.ipynb # Análisis de los batches por su grupo
 │   ├── entrega_taller2_analisis_univariado.ipynb  # Análisis univariado de los datos
 │   ├── lasso_pipeline.ipynb  # Implementación del modelo LASSO
-│   ├── lasso.ipynb  # Análisis con regresión LASSO
 │   ├── proyecto_rnn_penicilina.ipynb  # Implementación de RNN para la predicción de datos de penicilina
 │
+│── 📂 temp # Archivos temporales de contexto
 │── .gitignore   # Archivos a excluir del control de versiones
 │── README.md  # Este archivo
-│── Taller 3 Análisis Bivariado.pdf  # Material de apoyo
 ```
 
-## 📊 Datos
+## 📊 Base de datos
+
+El conjunto de datos fue generado mediante IndPenSim, una simulación matemática avanzada de un sistema de fermentación de penicilina de 100,000 litros. IndPenSim es la primera simulación que incorpora un dispositivo de espectroscopia Raman simulado para el desarrollo y evaluación de soluciones de control avanzadas en biotecnología.
+
+El conjunto de datos generado contiene 100 lotes con mediciones detalladas del proceso y espectroscopia Raman (~2.5 GB), siendo ideal para análisis de big data, aprendizaje automático (ML) e inteligencia artificial (AI) en la industria biofarmacéutica.
 
 * El dataset **`100_Batches_IndPenSim_V3.csv`** contiene simulaciones de producción de penicilina, que se analizarán para mejorar la predicción de variables clave mediante modelos de Machine Learning.
 
