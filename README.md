@@ -20,10 +20,12 @@ Este proyecto investiga el uso de **redes neuronales recurrentes (RNN)** en la i
 │   ├── IndPenSim_Summary_data_notebook_V3.ipynb  # Resumen y exploración de datos
 │
 │── 📂 src
-│   ├── batches_lasso.ipynb # Análisis de los batches por su grupo
-│   ├── entrega_taller2_analisis_univariado.ipynb  # Análisis univariado de los datos
-│   ├── lasso_pipeline.ipynb  # Implementación del modelo LASSO
-│   ├── proyecto_rnn_penicilina.ipynb  # Implementación de RNN para la predicción de datos de penicilina
+│   ├── analisis_exploratorio.ipynb  # Análisis exploratorio de los datos
+│   ├── analisis_univariado.ipynb  # Análisis univariado de los datos
+│   ├── batches_seleccion_variables.ipynb  # Selección de variables
+│   ├── batches_red_neuronal_articulo_normalizar.ipynb  # Implementación de RNN con las variables del articulo de referencia
+│   ├── batches_red_neuronal_lasso_normalizar.ipynb  # Implementación de RNN con las variables seleccionadas por lasso
+│   ├── batches_red_neuronal_pls_normalizar.ipynb  # Implementación de RNN con las variables seleccionadas por pls
 │
 │── 📂 temp # Archivos temporales de contexto
 │── .gitignore   # Archivos a excluir del control de versiones
