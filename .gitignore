@@ -159,3 +159,8 @@ data/*
 UrlShortenerApp.zip
 100_Batches_IndPenSim_V3.csv
 src/pruebas.ipynb
+src/batches_red_neurona_lasso.ipynb
+src\batches_red_neurona_lasso.ipynb
+src/red_neurona_lasso.ipynb
+src/batches_var_lasso.ipynb
+src/batches_red_neuronal_art.ipynb
