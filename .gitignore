@@ -144,6 +144,13 @@ __pycache__
 models/model_2/requirements_sebaces.txt
 
 dev/
+.vscode/
+.env 
+.venv/
+.venv
+# Local configuration files
+
+
 
 # Output
 outputs/
